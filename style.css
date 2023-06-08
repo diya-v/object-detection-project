@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+#heading{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.menu{
+    color: whitesmoke;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
